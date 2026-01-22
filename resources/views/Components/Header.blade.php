@@ -10,12 +10,13 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 <body class="bg-[#fbfaf5] font-['Manrope']">
-    <!-- Navigation -->
+ 
     @include('components.navbar')
     
-    <!-- Main Content -->
     <main>
         @yield('content')
     </main>
+
+    @include('components.footer')
 </body>
 </html>

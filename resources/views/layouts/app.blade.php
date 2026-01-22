@@ -8,15 +8,12 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 <body class="bg-gray-50">
-    <!-- Navigation -->
     @include('Components.navbar')
     
-    <!-- Main Content -->
     <main>
         @yield('content')
     </main>
     
-    <!-- Footer -->
     @include('Components.footer')
 </body>
 </html>

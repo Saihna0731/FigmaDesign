@@ -3,9 +3,7 @@
 @section('title', 'Home - FigmaDesign')
 
 @section('content')
-<div class="min-h-screen">
-    <!-- Hero Section -->
-    <section class="bg-gradient-to-r from-blue-500 to-purple-600 text-white py-20">
+<div class="min-h-screen"><section class="bg-gradient-to-r from-blue-500 to-purple-600 text-white py-20">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center">
                 <h1 class="text-4xl md:text-6xl font-bold mb-6">Welcome to Our Project</h1>
@@ -20,15 +18,9 @@
                 </div>
             </div>
         </div>
-    </section>
-
-    <!-- Components Section -->
-    <section class="py-16 bg-white">
+    </section><section class="py-16 bg-white">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 class="text-3xl font-bold text-center mb-12 text-gray-900">Components</h2>
-            
-            <!-- Buttons -->
-            <div class="mb-12">
+            <h2 class="text-3xl font-bold text-center mb-12 text-gray-900">Components</h2><div class="mb-12">
                 <h3 class="text-xl font-semibold mb-6 text-gray-800">Buttons</h3>
                 <div class="flex flex-wrap gap-4">
                     <button class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-md font-medium transition">
@@ -41,10 +33,7 @@
                         Learn more
                     </button>
                 </div>
-            </div>
-
-            <!-- Cards Section -->
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
+            </div><div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
                 <div class="bg-white border border-gray-200 rounded-lg shadow-md p-6 hover:shadow-lg transition">
                     <div class="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mb-4">
                         <svg class="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -76,10 +65,7 @@
                 </div>
             </div>
         </div>
-    </section>
-
-    <!-- Features Section -->
-    <section class="py-16 bg-gray-50">
+    </section><section class="py-16 bg-gray-50">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
                 <div>
