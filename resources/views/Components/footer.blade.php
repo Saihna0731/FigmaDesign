@@ -66,9 +66,9 @@
                         This project is funded by the Government of Canada through Global Affairs Canada.
                     </p>
                 </div>
-            </div><div class="relative mt-6 md:mt-15 w-full lg:w-auto"><img src="{{ asset('images/components/canada-frame.svg') }}" alt="Canada Logo" class="absolute right-[-40px] top-[-54px] w-[100px] h-[100px] hidden lg:block" />
-                <img src="{{ asset('images/components/dotted-shape.svg') }}" alt="Dotted" class="absolute right-[-40px] top-[63px] w-[106px] h-[134px] rotate-180 hidden lg:block" />
-                <img src="{{ asset('images/components/dotted-shape.svg') }}" alt="Dotted" class="absolute left-[-20px] bottom-[-20px] w-[106px] h-[134px] rotate-180 hidden lg:block" /><div class="w-full lg:w-[470px] bg-white rounded-lg shadow-[0px_4px_18px_0px_rgba(0,0,0,0.07)] p-6 md:p-[50px] relative z-10">
+            </div><div class="relative mt-6 md:mt-15 w-full lg:w-auto"><img src="{{ asset('images/Design/canada-frame.svg') }}" alt="Canada Logo" class="absolute right-[-40px] top-[-54px] w-[100px] h-[100px] hidden lg:block" />
+                <img src="{{ asset('images/Design/dotted-shape.svg') }}" alt="Dotted" class="absolute right-[-40px] top-[63px] w-[106px] h-[134px] rotate-180 hidden lg:block" />
+                <img src="{{ asset('images/Design/dotted-shape.svg') }}" alt="Dotted" class="absolute left-[-20px] bottom-[-20px] w-[106px] h-[134px] rotate-180 hidden lg:block" /><div class="w-full lg:w-[470px] bg-white rounded-lg shadow-[0px_4px_18px_0px_rgba(0,0,0,0.07)] p-6 md:p-[50px] relative z-10">
                     <form class="flex flex-col gap-[25px]">
                         <div class="w-full h-[50px]">
                             <input type="text" placeholder="Name" 

@@ -18,7 +18,7 @@
             </h1>
             <p class="text-[#637381] text-sm font-medium font-['Manrope']">2025-10-06</p>
         </div><div class="flex flex-col gap-8 md:gap-10 items-center"><div class="w-full max-w-[720px] h-[250px] md:h-[405px] rounded-xl overflow-hidden">
-                <img src="{{ asset('images/Page11/main-article.jpg') }}" alt="EJAM Project Launch" class="w-full h-full object-cover" />
+                <img src="{{ asset('images/Content/news2.jpg') }}" alt="EJAM Project Launch" class="w-full h-full object-cover" />
             </div><div class="flex flex-col gap-6 items-start max-w-[620px]">
                 <p class="text-[#111928] text-base leading-6 font-medium font-['Manrope']">
                     The Equal Justice for All in Mongolia (EJAM) project—aimed at strengthening citizen-centred, gender sensitive judiciary, enhancing public trust, and increasing access to justice and protection of rights—was officially launched on October 6. The five‑year initiative (2025–2030) will be implemented by the Office of the Commissioner for Federal Judicial Affairs Canada (FJA) with support from Global Affairs Canada.
@@ -28,16 +28,16 @@
                 </p>
             </div><div class="w-full max-w-[720px] grid grid-cols-2 gap-3">
                 <div class="h-[150px] md:h-[199px] rounded-md overflow-hidden">
-                    <img src="{{ asset('images/Page11/pic1.jpg') }}" alt="Event Photo 1" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
+                    <img src="{{ asset('images/Content/pic1.jpg') }}" alt="Event Photo 1" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
                 </div>
                 <div class="h-[150px] md:h-[199px] rounded-md overflow-hidden">
-                    <img src="{{ asset('images/Page11/pic2.jpg') }}" alt="Event Photo 2" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
+                    <img src="{{ asset('images/Content/pic2.jpg') }}" alt="Event Photo 2" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
                 </div>
                 <div class="h-[150px] md:h-[199px] rounded-md overflow-hidden">
-                    <img src="{{ asset('images/Page11/pic3.jpg') }}" alt="Event Photo 3" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
+                    <img src="{{ asset('images/Content/pic3.jpg') }}" alt="Event Photo 3" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
                 </div>
                 <div class="h-[150px] md:h-[199px] rounded-md overflow-hidden">
-                    <img src="{{ asset('images/Page11/pic4.jpg') }}" alt="Event Photo 4" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
+                    <img src="{{ asset('images/Content/pic4.jpg') }}" alt="Event Photo 4" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
                 </div>
             </div><div class="flex flex-col gap-6 items-start max-w-[620px]">
                 <p class="text-[#111928] text-base leading-6 font-medium font-['Manrope']">
@@ -48,16 +48,16 @@
                 </p>
             </div><div class="w-full max-w-[720px] grid grid-cols-2 gap-3">
                 <div class="h-[150px] md:h-[199px] rounded-md overflow-hidden">
-                    <img src="{{ asset('images/Page11/pic5.jpg') }}" alt="Event Photo 5" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
+                    <img src="{{ asset('images/Content/pic5.jpg') }}" alt="Event Photo 5" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
                 </div>
                 <div class="h-[150px] md:h-[199px] rounded-md overflow-hidden">
-                    <img src="{{ asset('images/Page11/pic6.jpg') }}" alt="Event Photo 6" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
+                    <img src="{{ asset('images/Content/pic6.jpg') }}" alt="Event Photo 6" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
                 </div>
                 <div class="h-[150px] md:h-[199px] rounded-md overflow-hidden">
-                    <img src="{{ asset('images/Page11/pic7.jpg') }}" alt="Event Photo 7" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
+                    <img src="{{ asset('images/Content/pic7.jpg') }}" alt="Event Photo 7" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
                 </div>
                 <div class="h-[150px] md:h-[199px] rounded-md overflow-hidden">
-                    <img src="{{ asset('images/Page11/pic8.jpg') }}" alt="Event Photo 8" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
+                    <img src="{{ asset('images/Content/pic8.jpg') }}" alt="Event Photo 8" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
                 </div>
             </div><div class="flex flex-col gap-6 items-start max-w-[620px]">
                 <p class="text-[#111928] text-base leading-6 font-medium font-['Manrope']">
@@ -79,7 +79,7 @@
                 </p>
             </div><div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8 w-full"><div class="bg-white rounded-lg overflow-hidden shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] hover:shadow-md transition-shadow">
                     <div class="h-[200px] md:h-[212px] overflow-hidden">
-                        <img src="{{ asset('images/Page11/more-news1.jpg') }}" alt="Meeting with EU experts" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
+                        <img src="{{ asset('images/Content/more-news1.jpg') }}" alt="Meeting with EU experts" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
                     </div>
                     <div class="p-5">
                         <div class="flex items-center gap-1 text-sm text-[#6a7282] opacity-80 mb-3 font-['Manrope']">
@@ -96,7 +96,7 @@
                     </div>
                 </div><div class="bg-white rounded-lg overflow-hidden shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] hover:shadow-md transition-shadow">
                     <div class="h-[200px] md:h-[212px] overflow-hidden">
-                        <img src="{{ asset('images/Page11/more-news2.jpg') }}" alt="Vietnam Embassy event" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
+                        <img src="{{ asset('images/Content/more-news2.jpg') }}" alt="Vietnam Embassy event" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
                     </div>
                     <div class="p-5">
                         <div class="flex items-center gap-1 text-sm text-[#6a7282] opacity-80 mb-3 font-['Manrope']">
@@ -113,7 +113,7 @@
                     </div>
                 </div><div class="bg-white rounded-lg overflow-hidden shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] hover:shadow-md transition-shadow">
                     <div class="h-[200px] md:h-[212px] overflow-hidden">
-                        <img src="{{ asset('images/Page11/more-news3.jpg') }}" alt="All Judges Assembly" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
+                        <img src="{{ asset('images/Content/more-news3.jpg') }}" alt="All Judges Assembly" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
                     </div>
                     <div class="p-5">
                         <div class="flex items-center gap-1 text-sm text-[#6a7282] opacity-80 mb-3 font-['Manrope']">

@@ -6,7 +6,7 @@
 
 <section class="w-full bg-[#fbfaf5] py-8 md:py-16 px-4 md:px-16 overflow-hidden relative">
     <div class="absolute top-0 left-[-462px] w-[1053px] h-[998px] rotate-[155deg] opacity-10 pointer-events-none hidden md:block">
-        <img src="{{ asset('images/components/news-bg-shape.svg') }}" alt="" class="w-full h-full" />
+        <img src="{{ asset('images/Design/news-bg-shape.svg') }}" alt="" class="w-full h-full" />
     </div>
 
     <div class="max-w-[1280px] mx-auto relative z-10">
@@ -86,7 +86,7 @@
 </section>
 
 <div class="opacity-40 mt-4 hidden lg:block">
-    <img class="w-[450px] h-[450px] left-0 top-0 mt-80 ml-180 absolute" src="{{ asset('images/Page2/scale-decoration.png') }}" />
+    <img class="w-[450px] h-[450px] left-0 top-0 mt-80 ml-180 absolute" src="{{ asset('images/Design/scale-decoration.png') }}" />
 </div>
 
 <section class="w-full bg-[#fbfaf5] py-8 md:py-16 px-4 md:px-16 relative overflow-hidden">
@@ -158,7 +158,7 @@
         <div class="flex flex-col md:flex-row gap-4 md:gap-8 justify-center">
             <div class="flex-1 w-full md:max-w-[560px] bg-white rounded-[20px] shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] p-6 md:p-10">
                 <div class="w-[50px] md:w-[70px] h-[50px] md:h-[70px] mb-4">
-                    <img src="{{ asset('images/Page2/partner-fja.png') }}" alt="FJA Logo" class="w-full h-full object-contain" />
+                    <img src="{{ asset('images/logo/partner-fja.png') }}" alt="FJA Logo" class="w-full h-full object-contain" />
                 </div>
                 <h3 class="text-[#111928] text-base md:text-[18px] font-semibold font-['Manrope'] leading-[24px] md:leading-[26px] mb-3 md:mb-[14px]">
                     Office of the Commissioner for Federal Judicial Affairs Canada (FJA)
@@ -170,7 +170,7 @@
 
             <div class="flex-1 w-full md:max-w-[560px] bg-white rounded-[20px] shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] p-6 md:p-10">
                 <div class="w-[70px] h-[70px] mb-4">
-                    <img src="{{ asset('images/Page2/partner-nji.png') }}" alt="NJI Logo" class="w-full h-full object-contain" />
+                    <img src="{{ asset('images/logo/partner-nji.png') }}" alt="NJI Logo" class="w-full h-full object-contain" />
                 </div>
                 <h3 class="text-[#111928] text-[18px] font-semibold font-['Manrope'] leading-[26px] mb-[14px]">
                     National Judicial Institute (NJI)
@@ -195,7 +195,7 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-8 justify-center">
                 <div class="w-full bg-white rounded-[20px] shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] p-6 md:p-10">
                     <div class="w-[50px] md:w-[70px] h-[50px] md:h-[70px] mb-4">
-                        <img src="{{ asset('images/Page2/partner1.png') }}" alt="Supreme Court Logo" class="w-full h-full object-contain" />
+                        <img src="{{ asset('images/Content/partner1.png') }}" alt="Supreme Court Logo" class="w-full h-full object-contain" />
                     </div>
                     <h3 class="text-[#111928] text-base md:text-[18px] font-semibold font-['Manrope'] leading-[24px] md:leading-[26px] mb-3 md:mb-[14px]">
                         Supreme Court of Mongolia
@@ -207,7 +207,7 @@
 
                 <div class="w-full bg-white rounded-[20px] shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] p-6 md:p-10">
                     <div class="w-[50px] md:w-[70px] h-[50px] md:h-[70px] mb-4">
-                        <img src="{{ asset('images/Page2/partner2.png') }}" alt="JGC Logo" class="w-full h-full object-contain" />
+                        <img src="{{ asset('images/Content/partner2.png') }}" alt="JGC Logo" class="w-full h-full object-contain" />
                     </div>
                     <h3 class="text-[#111928] text-base md:text-[18px] font-semibold font-['Manrope'] leading-[24px] md:leading-[26px] mb-3 md:mb-[14px]">
                         Judicial General Council of Mongolia
@@ -219,7 +219,7 @@
 
                 <div class="w-full bg-white rounded-[20px] shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] p-6 md:p-10">
                     <div class="w-[50px] md:w-[70px] h-[50px] md:h-[70px] mb-4">
-                        <img src="{{ asset('images/Page2/partner3.png') }}" alt="JDC Logo" class="w-full h-full object-contain" />
+                        <img src="{{ asset('images/Content/partner3.png') }}" alt="JDC Logo" class="w-full h-full object-contain" />
                     </div>
                     <h3 class="text-[#111928] text-base md:text-[18px] font-semibold font-['Manrope'] leading-[24px] md:leading-[26px] mb-3 md:mb-[14px]">
                         Judicial Disciplinary Committee
@@ -231,7 +231,7 @@
 
                 <div class="w-full bg-white rounded-[20px] shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] p-6 md:p-10">
                     <div class="w-[50px] md:w-[70px] h-[50px] md:h-[70px] mb-4">
-                        <img src="{{ asset('images/Page2/partner4.png') }}" alt="JA Logo" class="w-full h-full object-contain" />
+                        <img src="{{ asset('images/Content/partner4.png') }}" alt="JA Logo" class="w-full h-full object-contain" />
                     </div>
                     <h3 class="text-[#111928] text-base md:text-[18px] font-semibold font-['Manrope'] leading-[24px] md:leading-[26px] mb-3 md:mb-[14px]">
                         Judicial Academy
@@ -243,7 +243,7 @@
 
                 <div class="w-full bg-white rounded-[20px] shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] p-6 md:p-10">
                     <div class="w-[50px] md:w-[70px] h-[50px] md:h-[70px] mb-4">
-                        <img src="{{ asset('images/Page2/partner5.png') }}" alt="MJA Logo" class="w-full h-full object-contain" />
+                        <img src="{{ asset('images/Content/partner5.png') }}" alt="MJA Logo" class="w-full h-full object-contain" />
                     </div>
                     <h3 class="text-[#111928] text-base md:text-[18px] font-semibold font-['Manrope'] leading-[24px] md:leading-[26px] mb-3 md:mb-[14px]">
                         Mongolian Judges Association
@@ -255,7 +255,7 @@
 
                 <div class="w-full bg-white rounded-[20px] shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] p-6 md:p-10">
                     <div class="w-[50px] md:w-[70px] h-[50px] md:h-[70px] mb-4">
-                        <img src="{{ asset('images/Page2/partner6.png') }}" alt="LINGO Logo" class="w-full h-full object-contain" />
+                        <img src="{{ asset('images/Content/partner6.png') }}" alt="LINGO Logo" class="w-full h-full object-contain" />
                     </div>
                     <h3 class="text-[#111928] text-base md:text-[18px] font-semibold font-['Manrope'] leading-[24px] md:leading-[26px] mb-3 md:mb-[14px]">
                         Legal Innovation NGO

@@ -1,9 +1,0 @@
-<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 52.7917 52.889" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="Video Button">
-<foreignObject x="-4" y="-4" width="60.7917" height="60.8889"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(2px);clip-path:url(#bgblur_0_0_2407_clip_path);height:100%;width:100%"></div></foreignObject><path id="Ellipse 1326" data-figma-bg-blur-radius="4" d="M26.3955 0.5C40.6965 0.5 52.2919 12.1148 52.292 26.4443C52.292 40.7739 40.6965 52.3887 26.3955 52.3887C12.0947 52.3885 0.5 40.7738 0.5 26.4443C0.500059 12.1149 12.0947 0.500177 26.3955 0.5Z" fill="var(--fill-0, #DFE4EA)" fill-opacity="0.7" stroke="var(--stroke-0, #DFE4EA)"/>
-<path id="Polygon 8" d="M42.8958 25.5784C43.5625 25.9633 43.5625 26.9256 42.8958 27.3105L18.8958 41.1669C18.2292 41.5518 17.3958 41.0706 17.3958 40.3008L17.3958 12.588C17.3958 11.8182 18.2292 11.3371 18.8958 11.722L42.8958 25.5784Z" fill="var(--fill-0, white)"/>
-</g>
-<defs>
-<clipPath id="bgblur_0_0_2407_clip_path" transform="translate(4 4)"><path d="M26.3955 0.5C40.6965 0.5 52.2919 12.1148 52.292 26.4443C52.292 40.7739 40.6965 52.3887 26.3955 52.3887C12.0947 52.3885 0.5 40.7738 0.5 26.4443C0.500059 12.1149 12.0947 0.500177 26.3955 0.5Z"/>
-</clipPath></defs>
-</svg>

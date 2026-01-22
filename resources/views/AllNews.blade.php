@@ -5,7 +5,7 @@
 @section('content')
 <section class="w-full bg-[#fbfaf5] py-8 md:py-16 px-4 md:px-8 overflow-hidden relative">
     <div class="absolute top-[-108px] left-[-96px] w-[1053px] h-[998px] rotate-[155deg] opacity-10 pointer-events-none hidden md:block">
-        <img src="{{ asset('images/components/news-bg-shape.png') }}" alt="" class="w-full h-full" />
+        <img src="{{ asset('images/Design/news-bg-shape.png') }}" alt="" class="w-full h-full" />
     </div>
 
     <div class="max-w-[1280px] mx-auto relative z-10">
@@ -22,7 +22,7 @@
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-8 w-full">
                 <div class="w-full bg-white rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden">
                     <div class="h-[180px] md:h-[180px] md:h-[212px] w-full">
-                        <img src="{{ asset('images/Page4/news-page-1.png') }}" alt="News" class="w-full h-full object-cover" />
+                        <img src="{{ asset('images/Content/news1.png') }}" alt="News" class="w-full h-full object-cover" />
                     </div>
                     <div class="p-5 flex flex-col gap-5">
                         <div class="flex flex-col gap-3">
@@ -45,7 +45,7 @@
 
                 <div class="w-full bg-white rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden">
                     <div class="h-[180px] md:h-[212px] w-full">
-                        <img src="{{ asset('images/Page4/news-page-2.png') }}" alt="News" class="w-full h-full object-cover" />
+                        <img src="{{ asset('images/Content/news2.png') }}" alt="News" class="w-full h-full object-cover" />
                     </div>
                     <div class="p-5 flex flex-col gap-5">
                         <div class="flex flex-col gap-3">
@@ -68,7 +68,7 @@
 
                 <div class="w-full bg-white rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden">
                     <div class="h-[180px] md:h-[212px] w-full">
-                        <img src="{{ asset('images/Page4/news-page-3.png') }}" alt="News" class="w-full h-full object-cover" />
+                        <img src="{{ asset('images/Content/news3.png') }}" alt="News" class="w-full h-full object-cover" />
                     </div>
                     <div class="p-5 flex flex-col gap-5">
                         <div class="flex flex-col gap-3">
@@ -93,7 +93,7 @@
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-8 w-full">
                 <div class="w-full bg-white rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden">
                     <div class="h-[180px] md:h-[212px] w-full">
-                        <img src="{{ asset('images/Page4/news-page-4.png') }}" alt="News" class="w-full h-full object-cover" />
+                        <img src="{{ asset('images/Content/news4.png') }}" alt="News" class="w-full h-full object-cover" />
                     </div>
                     <div class="p-5 flex flex-col gap-5">
                         <div class="flex flex-col gap-3">
@@ -116,7 +116,7 @@
 
                 <div class="w-full bg-white rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden">
                     <div class="h-[180px] md:h-[212px] w-full">
-                        <img src="{{ asset('images/Page4/news-page-5.png') }}" alt="News" class="w-full h-full object-cover" />
+                        <img src="{{ asset('images/Content/news5.png') }}" alt="News" class="w-full h-full object-cover" />
                     </div>
                     <div class="p-5 flex flex-col gap-5">
                         <div class="flex flex-col gap-3">
@@ -139,7 +139,7 @@
 
                 <div class="w-full bg-white rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden">
                     <div class="h-[180px] md:h-[212px] w-full">
-                        <img src="{{ asset('images/Page4/news-page-6.png') }}" alt="News" class="w-full h-full object-cover" />
+                        <img src="{{ asset('images/Content/news6.png') }}" alt="News" class="w-full h-full object-cover" />
                     </div>
                     <div class="p-5 flex flex-col gap-5">
                         <div class="flex flex-col gap-3">
@@ -164,7 +164,7 @@
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-8 w-full">
                 <div class="w-full bg-white rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden">
                     <div class="h-[180px] md:h-[212px] w-full">
-                        <img src="{{ asset('images/Page3/meeting-1.png') }}" alt="News" class="w-full h-full object-cover" />
+                        <img src="{{ asset('images/Content/meeting-1.png') }}" alt="News" class="w-full h-full object-cover" />
                     </div>
                     <div class="p-5 flex flex-col gap-5">
                         <div class="flex flex-col gap-3">
@@ -187,7 +187,7 @@
 
                 <div class="w-full bg-white rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden">
                     <div class="h-[180px] md:h-[212px] w-full">
-                        <img src="{{ asset('images/Page3/meeting-2.png') }}" alt="News" class="w-full h-full object-cover" />
+                        <img src="{{ asset('images/Content/meeting-2.png') }}" alt="News" class="w-full h-full object-cover" />
                     </div>
                     <div class="p-5 flex flex-col gap-5">
                         <div class="flex flex-col gap-3">
@@ -210,7 +210,7 @@
 
                 <div class="w-full bg-white rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden">
                     <div class="h-[180px] md:h-[212px] w-full">
-                        <img src="{{ asset('images/Page3/meeting-3.png') }}" alt="News" class="w-full h-full object-cover" />
+                        <img src="{{ asset('images/Content/meeting-3.png') }}" alt="News" class="w-full h-full object-cover" />
                     </div>
                     <div class="p-5 flex flex-col gap-5">
                         <div class="flex flex-col gap-3">
@@ -235,7 +235,7 @@
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-8 w-full">
                 <div class="w-full bg-white rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden">
                     <div class="h-[180px] md:h-[212px] w-full">
-                        <img src="{{ asset('images/Page3/meeting-4.png') }}" alt="News" class="w-full h-full object-cover" />
+                        <img src="{{ asset('images/Content/meeting-4.png') }}" alt="News" class="w-full h-full object-cover" />
                     </div>
                     <div class="p-5 flex flex-col gap-5">
                         <div class="flex flex-col gap-3">
@@ -258,7 +258,7 @@
 
                 <div class="w-full bg-white rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden">
                     <div class="h-[180px] md:h-[212px] w-full">
-                        <img src="{{ asset('images/Page3/meeting-5.png') }}" alt="News" class="w-full h-full object-cover" />
+                        <img src="{{ asset('images/Content/meeting-5.png') }}" alt="News" class="w-full h-full object-cover" />
                     </div>
                     <div class="p-5 flex flex-col gap-5">
                         <div class="flex flex-col gap-3">
@@ -281,7 +281,7 @@
 
                 <div class="w-full bg-white rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden">
                     <div class="h-[180px] md:h-[212px] w-full">
-                        <img src="{{ asset('images/Page3/meeting-6.png') }}" alt="News" class="w-full h-full object-cover" />
+                        <img src="{{ asset('images/Content/meeting-6.png') }}" alt="News" class="w-full h-full object-cover" />
                     </div>
                     <div class="p-5 flex flex-col gap-5">
                         <div class="flex flex-col gap-3">

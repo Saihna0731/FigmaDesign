@@ -16,7 +16,7 @@
                             @for($i = 1; $i <= 3; $i++)
                             <div class="bg-white flex gap-3 items-start overflow-hidden p-3 rounded-lg w-full cursor-pointer hover:shadow-md transition-shadow">
                                 <div class="h-[103px] rounded-md w-[120px] overflow-hidden flex-shrink-0">
-                                    <img src="{{ asset('images/Page6/search-result.png') }}" alt="News {{ $i }}" class="w-full h-full object-cover rounded-md" />
+                                    <img src="{{ asset('images/Content/search-result.png') }}" alt="News {{ $i }}" class="w-full h-full object-cover rounded-md" />
                                 </div>
                                 <div class="flex flex-[1_0_0] flex-col items-start justify-between self-stretch">
                                     <p class="font-medium text-base leading-6 text-[#111928]">
@@ -34,7 +34,7 @@
                             @for($i = 4; $i <= 6; $i++)
                             <div class="bg-white flex gap-3 items-start overflow-hidden p-3 rounded-lg w-full cursor-pointer hover:shadow-md transition-shadow">
                                 <div class="h-[103px] rounded-md w-[120px] overflow-hidden flex-shrink-0">
-                                    <img src="{{ asset('images/Page6/search-result.png') }}" alt="News {{ $i }}" class="w-full h-full object-cover rounded-md" />
+                                    <img src="{{ asset('images/Content/search-result.png') }}" alt="News {{ $i }}" class="w-full h-full object-cover rounded-md" />
                                 </div>
                                 <div class="flex flex-[1_0_0] flex-col items-start justify-between self-stretch">
                                     <p class="font-medium text-base leading-6 text-[#111928]">
@@ -58,7 +58,7 @@
                     @for($i = 1; $i <= 2; $i++)
                     <div class="bg-white flex gap-3 items-start overflow-hidden p-3 rounded-lg w-full md:w-[565px] cursor-pointer hover:shadow-md transition-shadow">
                         <div class="h-[103px] rounded-md w-[120px] overflow-hidden flex-shrink-0">
-                            <img src="{{ asset('images/Page6/event' . $i . '.png') }}" alt="Event {{ $i }}" class="w-full h-full object-cover rounded-md" />
+                            <img src="{{ asset('images/Content/event' . $i . '.png') }}" alt="Event {{ $i }}" class="w-full h-full object-cover rounded-md" />
                         </div>
                         <div class="flex flex-[1_0_0] flex-col items-start justify-between self-stretch">
                             <p class="font-medium text-base leading-6 text-[#111928]">
@@ -93,7 +93,7 @@
 
                     <div class="bg-white flex gap-3 items-start overflow-hidden p-3 rounded-lg w-full md:w-[560px] cursor-pointer hover:shadow-md transition-shadow">
                         <div class="h-[80px] md:h-[103px] rounded-md w-[100px] md:w-[120px] overflow-hidden flex-shrink-0">
-                            <img src="{{ asset('images/Page6/search-result.png') }}" alt="Media" class="w-full h-full object-cover rounded-md" />
+                            <img src="{{ asset('images/Content/search-result.png') }}" alt="Media" class="w-full h-full object-cover rounded-md" />
                         </div>
                         <div class="flex flex-[1_0_0] flex-col items-start justify-between self-stretch">
                             <p class="font-medium text-base leading-6 text-[#111928]">

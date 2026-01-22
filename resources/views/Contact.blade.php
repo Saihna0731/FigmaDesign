@@ -13,7 +13,7 @@
             </div><div class="flex flex-col items-start w-full"><div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-0 w-full">
                     <div class="flex gap-4 md:gap-6 items-center p-6 md:p-10 border-b md:border-r border-slate-200">
                         <div class="w-[50px] md:w-[60px] h-[50px] md:h-[60px] rounded-full overflow-hidden flex-shrink-0">
-                            <img src="{{ asset('images/Page7/team-avatar.png') }}" alt="Team Member" class="w-full h-full object-cover" />
+                            <img src="{{ asset('images/Content/team-avatar.png') }}" alt="Team Member" class="w-full h-full object-cover" />
                         </div>
                         <div class="flex flex-col gap-2 items-start flex-1">
                             <div class="flex flex-col items-start">
@@ -37,7 +37,7 @@
                         </div>
                     </div><div class="flex gap-4 md:gap-6 items-center p-6 md:p-10 border-b border-slate-200">
                         <div class="w-[50px] md:w-[60px] h-[50px] md:h-[60px] rounded-full overflow-hidden flex-shrink-0">
-                            <img src="{{ asset('images/Page7/team-avatar.png') }}" alt="Team Member" class="w-full h-full object-cover" />
+                            <img src="{{ asset('images/Content/team-avatar.png') }}" alt="Team Member" class="w-full h-full object-cover" />
                         </div>
                         <div class="flex flex-col gap-2 items-start flex-1">
                             <div class="flex flex-col items-start">
@@ -61,7 +61,7 @@
                         </div>
                     </div><div class="flex gap-4 md:gap-6 items-center p-6 md:p-10 border-b lg:border-l border-slate-200">
                         <div class="w-[50px] md:w-[60px] h-[50px] md:h-[60px] rounded-full overflow-hidden flex-shrink-0">
-                            <img src="{{ asset('images/Page7/team-avatar.png') }}" alt="Team Member" class="w-full h-full object-cover" />
+                            <img src="{{ asset('images/Content/team-avatar.png') }}" alt="Team Member" class="w-full h-full object-cover" />
                         </div>
                         <div class="flex flex-col gap-2 items-start flex-1">
                             <div class="flex flex-col items-start">
@@ -86,7 +86,7 @@
                     </div>
                 </div><div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-0 w-full"><div class="flex gap-4 md:gap-6 items-center p-6 md:p-10 md:border-r border-slate-200">
                         <div class="w-[50px] md:w-[60px] h-[50px] md:h-[60px] rounded-full overflow-hidden flex-shrink-0">
-                            <img src="{{ asset('images/Page7/team-avatar.png') }}" alt="Team Member" class="w-full h-full object-cover" />
+                            <img src="{{ asset('images/Content/team-avatar.png') }}" alt="Team Member" class="w-full h-full object-cover" />
                         </div>
                         <div class="flex flex-col gap-2 items-start flex-1">
                             <div class="flex flex-col items-start">
@@ -110,7 +110,7 @@
                         </div>
                     </div><div class="flex gap-4 md:gap-6 items-center p-6 md:p-10">
                         <div class="w-[50px] md:w-[60px] h-[50px] md:h-[60px] rounded-full overflow-hidden flex-shrink-0">
-                            <img src="{{ asset('images/Page7/team-avatar.png') }}" alt="Team Member" class="w-full h-full object-cover" />
+                            <img src="{{ asset('images/Content/team-avatar.png') }}" alt="Team Member" class="w-full h-full object-cover" />
                         </div>
                         <div class="flex flex-col gap-2 items-start flex-1">
                             <div class="flex flex-col items-start">
@@ -134,7 +134,7 @@
                         </div>
                     </div><div class="flex gap-4 md:gap-6 items-center p-6 md:p-10 lg:border-l border-slate-200">
                         <div class="w-[50px] md:w-[60px] h-[50px] md:h-[60px] rounded-full overflow-hidden flex-shrink-0">
-                            <img src="{{ asset('images/Page7/team-avatar.png') }}" alt="Team Member" class="w-full h-full object-cover" />
+                            <img src="{{ asset('images/Content/team-avatar.png') }}" alt="Team Member" class="w-full h-full object-cover" />
                         </div>
                         <div class="flex flex-col gap-2 items-start flex-1">
                             <div class="flex flex-col items-start">

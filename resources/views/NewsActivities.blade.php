@@ -5,7 +5,7 @@
 <section class="relative bg-gradient-to-b from-[#fbfaf5] to-[#f6f4e9] py-8 md:py-16 px-4 md:px-8 overflow-hidden">
     <div class="absolute left-[115px] top-[683px] w-[1052px] h-[997px] flex items-center justify-center opacity-30 pointer-events-none">
         <div class="rotate-[155deg]">
-            <img src="{{ asset('images/components/news-bg-shape.png') }}" alt="" class="w-[830px] h-[720px] object-contain">
+            <img src="{{ asset('images/Design/news-bg-shape.png') }}" alt="" class="w-[830px] h-[720px] object-contain">
         </div>
     </div>
 
@@ -14,7 +14,7 @@
             <h2 class="font-['Manrope'] font-bold text-[24px] md:text-[30px] leading-[32px] md:leading-[38px] text-[#111928]">Latest News</h2>
         </div><div class="flex flex-col gap-8"><div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-8"><div class="w-full rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden flex flex-col">
                     <div class="h-[180px] md:h-[180px] md:h-[212px] w-full">
-                        <img src="{{ asset('images/Page4/news-page-1.png') }}" alt="News" class="w-full h-full object-cover">
+                        <img src="{{ asset('images/Content/news1.png') }}" alt="News" class="w-full h-full object-cover">
                     </div>
                     <div class="bg-white p-5 flex flex-col gap-5">
                         <div class="flex flex-col gap-3">
@@ -31,7 +31,7 @@
                     </div>
                 </div><div class="w-full rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden flex flex-col">
                     <div class="h-[180px] md:h-[180px] md:h-[212px] w-full">
-                        <img src="{{ asset('images/Page4/news-page-2.png') }}" alt="News" class="w-full h-full object-cover">
+                        <img src="{{ asset('images/Content/news2.png') }}" alt="News" class="w-full h-full object-cover">
                     </div>
                     <div class="bg-white p-5 flex flex-col gap-5">
                         <div class="flex flex-col gap-3">
@@ -48,7 +48,7 @@
                     </div>
                 </div><div class="w-full rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden flex flex-col">
                     <div class="h-[180px] md:h-[180px] md:h-[212px] w-full">
-                        <img src="{{ asset('images/Page4/news-page-3.png') }}" alt="News" class="w-full h-full object-cover">
+                        <img src="{{ asset('images/Content/news3.png') }}" alt="News" class="w-full h-full object-cover">
                     </div>
                     <div class="bg-white p-5 flex flex-col gap-5">
                         <div class="flex flex-col gap-3">
@@ -66,7 +66,7 @@
                 </div>
             </div><div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-8"><div class="w-full rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden flex flex-col">
                     <div class="h-[180px] md:h-[180px] md:h-[212px] w-full">
-                        <img src="{{ asset('images/Page4/news-page-4.png') }}" alt="News" class="w-full h-full object-cover">
+                        <img src="{{ asset('images/Content/news4.png') }}" alt="News" class="w-full h-full object-cover">
                     </div>
                     <div class="bg-white p-5 flex flex-col gap-5">
                         <div class="flex flex-col gap-3">
@@ -83,7 +83,7 @@
                     </div>
                 </div><div class="w-full rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden flex flex-col">
                     <div class="h-[180px] md:h-[180px] md:h-[212px] w-full">
-                        <img src="{{ asset('images/Page4/news-page-5.png') }}" alt="News" class="w-full h-full object-cover">
+                        <img src="{{ asset('images/Content/news5.png') }}" alt="News" class="w-full h-full object-cover">
                     </div>
                     <div class="bg-white p-5 flex flex-col gap-5">
                         <div class="flex flex-col gap-3">
@@ -100,7 +100,7 @@
                     </div>
                 </div><div class="w-full rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden flex flex-col">
                     <div class="h-[180px] md:h-[180px] md:h-[212px] w-full">
-                        <img src="{{ asset('images/Page4/news-page-6.png') }}" alt="News" class="w-full h-full object-cover">
+                        <img src="{{ asset('images/Content/news6.png') }}" alt="News" class="w-full h-full object-cover">
                     </div>
                     <div class="bg-white p-5 flex flex-col gap-5">
                         <div class="flex flex-col gap-3">
@@ -156,7 +156,7 @@
                 </div>
             </div><div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-8"><div class="w-full rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden flex flex-col">
                     <div class="h-[195px] w-full">
-                        <img src="{{ asset('images/Page3/training-1.png') }}" alt="Training" class="w-full h-full object-cover">
+                        <img src="{{ asset('images/Content/training-1.png') }}" alt="Training" class="w-full h-full object-cover">
                     </div>
                     <div class="bg-white p-5 flex flex-col gap-4">
                         <h3 class="font-['Manrope'] font-semibold text-lg leading-[26px] text-[#111928] w-[300px]">Training on the topic "Issues to be considered in the application of the constitution" to be organized</h3>
@@ -178,7 +178,7 @@
                     </div>
                 </div><div class="w-full rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden flex flex-col">
                     <div class="h-[195px] w-full">
-                        <img src="{{ asset('images/Page3/training-2.png') }}" alt="Training" class="w-full h-full object-cover">
+                        <img src="{{ asset('images/Content/training-2.png') }}" alt="Training" class="w-full h-full object-cover">
                     </div>
                     <div class="bg-white p-5 flex flex-col gap-4">
                         <h3 class="font-['Manrope'] font-semibold text-lg leading-[26px] text-[#111928] w-[300px]">Training on the topic "Issues to be considered in the application of the constitution" to be organized</h3>
@@ -200,7 +200,7 @@
                     </div>
                 </div><div class="w-full rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden flex flex-col">
                     <div class="h-[195px] w-full">
-                        <img src="{{ asset('images/Page3/training-1.png') }}" alt="Training" class="w-full h-full object-cover">
+                        <img src="{{ asset('images/Content/training-1.png') }}" alt="Training" class="w-full h-full object-cover">
                     </div>
                     <div class="bg-white p-5 flex flex-col gap-4">
                         <h3 class="font-['Manrope'] font-semibold text-lg leading-[26px] text-[#111928] w-[300px]">Training on the topic "Issues to be considered in the application of the constitution" to be organized</h3>
@@ -232,7 +232,7 @@
             <h2 class="font-['Manrope'] font-bold text-[24px] md:text-[30px] leading-[32px] md:leading-[38px] text-[#111928]">Meetings & Events</h2>
         </div><div class="flex flex-col gap-8"><div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-8"><div class="w-full flex flex-col gap-[10px]">
                     <div class="h-[190px] w-[270px] rounded-[5px] overflow-hidden">
-                        <img src="{{ asset('images/Page3/meeting-1.png') }}" alt="Meeting" class="w-full h-full object-cover">
+                        <img src="{{ asset('images/Content/meeting-1.png') }}" alt="Meeting" class="w-full h-full object-cover">
                     </div>
                     <div class="flex flex-col gap-3">
                         <h3 class="font-['Manrope'] font-semibold text-base leading-6 text-[#030712] overflow-hidden">Proceedings of the International Conference on "Specialized Courts: The Best Interests of the Child and the Family" Now Published</h3>
@@ -256,7 +256,7 @@
                     </div>
                 </div><div class="w-full flex flex-col gap-[10px]">
                     <div class="h-[190px] w-[270px] rounded-[5px] overflow-hidden">
-                        <img src="{{ asset('images/Page3/meeting-2.png') }}" alt="Meeting" class="w-full h-full object-cover">
+                        <img src="{{ asset('images/Content/meeting-2.png') }}" alt="Meeting" class="w-full h-full object-cover">
                     </div>
                     <div class="flex flex-col gap-3">
                         <h3 class="font-['Manrope'] font-semibold text-base leading-6 text-[#030712] overflow-hidden">Proceedings of the International Conference on "Specialized Courts: The Best Interests of the Child and the Family" Now Published</h3>
@@ -280,7 +280,7 @@
                     </div>
                 </div><div class="w-full flex flex-col gap-[10px]">
                     <div class="h-[190px] w-[270px] rounded-[5px] overflow-hidden">
-                        <img src="{{ asset('images/Page3/meeting-3.png') }}" alt="Meeting" class="w-full h-full object-cover">
+                        <img src="{{ asset('images/Content/meeting-3.png') }}" alt="Meeting" class="w-full h-full object-cover">
                     </div>
                     <div class="flex flex-col gap-3">
                         <h3 class="font-['Manrope'] font-semibold text-base leading-6 text-[#030712] overflow-hidden">Proceedings of the International Conference on "Specialized Courts: The Best Interests of the Child and the Family" Now Published</h3>
@@ -304,7 +304,7 @@
                     </div>
                 </div><div class="w-full flex flex-col gap-[10px]">
                     <div class="h-[190px] w-[270px] rounded-[5px] overflow-hidden">
-                        <img src="{{ asset('images/Page3/meeting-4.png') }}" alt="Meeting" class="w-full h-full object-cover">
+                        <img src="{{ asset('images/Content/meeting-4.png') }}" alt="Meeting" class="w-full h-full object-cover">
                     </div>
                     <div class="flex flex-col gap-3">
                         <h3 class="font-['Manrope'] font-semibold text-base leading-6 text-[#030712] overflow-hidden">Proceedings of the International Conference on "Specialized Courts: The Best Interests of the Child and the Family" Now Published</h3>
@@ -329,7 +329,7 @@
                 </div>
             </div><div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-8"><div class="w-full flex flex-col gap-[10px]">
                     <div class="h-[190px] w-[270px] rounded-[5px] overflow-hidden">
-                        <img src="{{ asset('images/Page3/meeting-5.png') }}" alt="Meeting" class="w-full h-full object-cover">
+                        <img src="{{ asset('images/Content/meeting-5.png') }}" alt="Meeting" class="w-full h-full object-cover">
                     </div>
                     <div class="flex flex-col gap-3">
                         <h3 class="font-['Manrope'] font-semibold text-base leading-6 text-[#030712] overflow-hidden">Proceedings of the International Conference on "Specialized Courts: The Best Interests of the Child and the Family" Now Published</h3>
@@ -353,7 +353,7 @@
                     </div>
                 </div><div class="w-full flex flex-col gap-[10px]">
                     <div class="h-[190px] w-[270px] rounded-[5px] overflow-hidden">
-                        <img src="{{ asset('images/Page3/meeting-6.png') }}" alt="Meeting" class="w-full h-full object-cover">
+                        <img src="{{ asset('images/Content/meeting-6.png') }}" alt="Meeting" class="w-full h-full object-cover">
                     </div>
                     <div class="flex flex-col gap-3">
                         <h3 class="font-['Manrope'] font-semibold text-base leading-6 text-[#030712] overflow-hidden">Proceedings of the International Conference on "Specialized Courts: The Best Interests of the Child and the Family" Now Published</h3>
@@ -377,7 +377,7 @@
                     </div>
                 </div><div class="w-full flex flex-col gap-[10px]">
                     <div class="h-[190px] w-[270px] rounded-[5px] overflow-hidden">
-                        <img src="{{ asset('images/Page3/meeting-7.png') }}" alt="Meeting" class="w-full h-full object-cover">
+                        <img src="{{ asset('images/Content/meeting-7.png') }}" alt="Meeting" class="w-full h-full object-cover">
                     </div>
                     <div class="flex flex-col gap-3">
                         <h3 class="font-['Manrope'] font-semibold text-base leading-6 text-[#030712] overflow-hidden">Proceedings of the International Conference on "Specialized Courts: The Best Interests of the Child and the Family" Now Published</h3>
@@ -401,7 +401,7 @@
                     </div>
                 </div><div class="w-full flex flex-col gap-[10px]">
                     <div class="h-[190px] w-[270px] rounded-[5px] overflow-hidden">
-                        <img src="{{ asset('images/Page3/meeting-8.png') }}" alt="Meeting" class="w-full h-full object-cover">
+                        <img src="{{ asset('images/Content/meeting-8.png') }}" alt="Meeting" class="w-full h-full object-cover">
                     </div>
                     <div class="flex flex-col gap-3">
                         <h3 class="font-['Manrope'] font-semibold text-base leading-6 text-[#030712] overflow-hidden">Proceedings of the International Conference on "Specialized Courts: The Best Interests of the Child and the Family" Now Published</h3>

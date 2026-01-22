@@ -2,8 +2,8 @@
     <div class="max-w-[1280px] mx-auto px-3 sm:px-4 md:px-8 py-2 md:py-3">
         <div class="flex items-center justify-between gap-2 sm:gap-4 md:gap-8">
             <div class="flex items-center gap-1 sm:gap-2 md:gap-[11px] flex-shrink-0">
-                <img src="{{ asset('images/Page1/canadaLogo.png') }}" alt="Canada Logo" class="h-[32px] sm:h-[40px] md:h-[64.8px] w-auto object-cover" />
-                <img src="{{ asset('images/components/EJAMLogo.png') }}" alt="EJAM Logo" class="w-[40px] sm:w-[50px] md:w-[100px] h-[40px] sm:h-[50px] md:h-[100px] object-contain" />
+                <img src="{{ asset('images/logo/canadaLogo.png') }}" alt="Canada Logo" class="h-[32px] sm:h-[40px] md:h-[64.8px] w-auto object-cover" />
+                <img src="{{ asset('images/logo/EJAMLogo.png') }}" alt="EJAM Logo" class="w-[40px] sm:w-[50px] md:w-[100px] h-[40px] sm:h-[50px] md:h-[100px] object-contain" />
             </div>
             
             <button id="mobileMenuBtn" class="md:hidden flex items-center justify-center w-10 h-10 rounded-lg hover:bg-gray-100 transition">

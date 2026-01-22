@@ -53,9 +53,9 @@
     </div>
     
     <img class="absolute left-[160px] top-[278px] w-[137px] h-[137px] object-cover hidden lg:block" 
-         src="{{ asset('images/Page1/DecorationBook.png') }}" alt="Decoration Book" />
+         src="{{ asset('images/Design/DecorationBook.png') }}" alt="Decoration Book" />
     <img class="absolute right-[126px] top-[98px] w-[161px] h-[162px] object-cover opacity-40 hidden lg:block" 
-         src="{{ asset('images/Page1/DecorationJinluur.png') }}" alt="Decoration Jinluur" />
+         src="{{ asset('images/Design/DecorationJinluur.png') }}" alt="Decoration Jinluur" />
 </div>
 
 <section class="w-full bg-[#fbfaf5] px-4 md:px-8 py-10 md:py-16 overflow-hidden">
@@ -72,7 +72,7 @@
         <div class="flex flex-wrap justify-center gap-4 md:gap-8">
             <a href="#" class="w-full max-w-[362px] bg-white rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden hover:shadow-lg transition cursor-pointer block">
                 <div class="w-full h-[212px]">
-                    <img class="w-full h-full object-cover" src="{{ asset('images/Page3/news1.png') }}" alt="News Image" />
+                    <img class="w-full h-full object-cover" src="{{ asset('images/Content/news1.png') }}" alt="News Image" />
                 </div>
                 <div class="p-5 flex flex-col gap-5">
                     <div class="flex flex-col gap-3">
@@ -95,7 +95,7 @@
 
             <a href="{{ url('/news-detail-2') }}" class="w-full max-w-[362px] bg-white rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden hover:shadow-lg transition cursor-pointer">
                 <div class="w-full h-[212px]">
-                    <img class="w-full h-full object-cover" src="{{ asset('images/Page3/news2.png') }}" alt="News Image" />
+                    <img class="w-full h-full object-cover" src="{{ asset('images/Content/news2.png') }}" alt="News Image" />
                 </div>
                 <div class="p-5 flex flex-col gap-5">
                     <div class="flex flex-col gap-3">
@@ -118,7 +118,7 @@
 
             <div class="w-full max-w-[362px] bg-white rounded-lg shadow-[0px_1px_3px_0px_rgba(166,175,195,0.4)] overflow-hidden">
                 <div class="w-full h-[212px]">
-                    <img class="w-full h-full object-cover" src="{{ asset('images/Page3/news3.png') }}" alt="News Image" />
+                    <img class="w-full h-full object-cover" src="{{ asset('images/Content/news3.png') }}" alt="News Image" />
                 </div>
                 <div class="p-5 flex flex-col gap-5">
                     <div class="flex flex-col gap-3">
@@ -156,37 +156,37 @@
 
         <div class="w-full grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4 md:gap-6">
             <div class="flex items-center gap-2 md:gap-3 rounded-[20px]">
-                <img src="{{ asset('images/Page2/partner1.png') }}" alt="Partner" class="w-8 md:w-10 h-8 md:h-10 object-cover flex-shrink-0" />
+                <img src="{{ asset('images/Content/partner1.png') }}" alt="Partner" class="w-8 md:w-10 h-8 md:h-10 object-cover flex-shrink-0" />
                 <p class="text-[#111928] text-xs md:text-sm font-normal font-['Manrope'] leading-[18px] md:leading-[22px]">
                     The Supreme Court of Mongolia
                 </p>
             </div>
             <div class="flex items-start gap-2 md:gap-3 rounded-[20px]">
-                <img src="{{ asset('images/Page2/partner2.png') }}" alt="Partner" class="w-8 md:w-10 h-8 md:h-10 object-cover flex-shrink-0" />
+                <img src="{{ asset('images/Content/partner2.png') }}" alt="Partner" class="w-8 md:w-10 h-8 md:h-10 object-cover flex-shrink-0" />
                 <p class="text-[#111928] text-xs md:text-sm font-normal font-['Manrope'] leading-[18px] md:leading-[22px] flex-1">
                     Judicial General Council of Mongolia
                 </p>
             </div>
             <div class="flex items-center gap-2 md:gap-3 rounded-[20px]">
-                <img src="{{ asset('images/Page2/partner3.png') }}" alt="Partner" class="w-8 md:w-10 h-8 md:h-10 object-cover flex-shrink-0" />
+                <img src="{{ asset('images/Content/partner3.png') }}" alt="Partner" class="w-8 md:w-10 h-8 md:h-10 object-cover flex-shrink-0" />
                 <p class="text-[#111928] text-xs md:text-sm font-normal font-['Manrope'] leading-[18px] md:leading-[22px] flex-1">
                     Judicial Disciplinary Committee
                 </p>
             </div>
             <div class="flex items-center gap-2 md:gap-3 rounded-[20px]">
-                <img src="{{ asset('images/Page2/partner4.png') }}" alt="Partner" class="w-8 md:w-10 h-8 md:h-10 object-cover flex-shrink-0" />
+                <img src="{{ asset('images/Content/partner4.png') }}" alt="Partner" class="w-8 md:w-10 h-8 md:h-10 object-cover flex-shrink-0" />
                 <p class="text-[#111928] text-xs md:text-sm font-normal font-['Manrope'] leading-[18px] md:leading-[22px]">
                     Judicial Academy
                 </p>
             </div>
             <div class="flex items-center gap-2 md:gap-3 rounded-[20px]">
-                <img src="{{ asset('images/Page2/partner5.png') }}" alt="Partner" class="w-8 md:w-10 h-8 md:h-10 object-cover flex-shrink-0" />
+                <img src="{{ asset('images/Content/partner5.png') }}" alt="Partner" class="w-8 md:w-10 h-8 md:h-10 object-cover flex-shrink-0" />
                 <p class="text-[#111928] text-xs md:text-sm font-normal font-['Manrope'] leading-[18px] md:leading-[22px]">
                     Mongolian Judges Association
                 </p>
             </div>
             <div class="flex items-center gap-2 md:gap-3 rounded-[20px]">
-                <img src="{{ asset('images/Page2/partner6.png') }}" alt="Partner" class="w-8 md:w-10 h-8 md:h-10 object-cover flex-shrink-0" />
+                <img src="{{ asset('images/Content/partner6.png') }}" alt="Partner" class="w-8 md:w-10 h-8 md:h-10 object-cover flex-shrink-0" />
                 <p class="text-[#111928] text-xs md:text-sm font-normal font-['Manrope'] leading-[18px] md:leading-[22px]">
                     Legal Innovation NGO
                 </p>

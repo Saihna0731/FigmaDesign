@@ -13,7 +13,7 @@
             </div><div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-8 w-full">
                 @for($i = 1; $i <= 9; $i++)
                 <a href="{{ url('/media-details') }}" class="group relative overflow-hidden rounded-xl aspect-[4/3]">
-                    <img src="{{ asset('images/Page9/meeting-' . (($i - 1) % 8 + 1) . '.png') }}" alt="Gallery {{ $i }}" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300" />
+                    <img src="{{ asset('images/Content/meeting-' . (($i - 1) % 8 + 1) . '.png') }}" alt="Gallery {{ $i }}" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300" />
                     <div class="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors duration-300"></div>
                     <div class="absolute bottom-0 left-0 right-0 p-4 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                         <p class="text-white text-sm">2025-01-{{ 10 + $i }}</p>
@@ -41,9 +41,9 @@
                 @for($i = 1; $i <= 6; $i++)
                 <div class="flex flex-col gap-3">
                     <div class="relative overflow-hidden rounded-xl aspect-video cursor-pointer group">
-                        <img src="{{ asset('images/Page9/meeting-' . (($i - 1) % 8 + 1) . '.png') }}" alt="Video {{ $i }}" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300" />
+                        <img src="{{ asset('images/Content/meeting-' . (($i - 1) % 8 + 1) . '.png') }}" alt="Video {{ $i }}" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300" />
                         <div class="absolute inset-0 bg-black/20 group-hover:bg-black/40 transition-colors duration-300"></div><div class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-[53px] h-[53px] group-hover:scale-110 transition-transform duration-300">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-12 h-12 caret-amber-50">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-12 h-12 text-white">
                                 <path fill-rule="evenodd" d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm14.024-.983a1.125 1.125 0 0 1 0 1.966l-5.603 3.113A1.125 1.125 0 0 1 9 15.113V8.887c0-.857.921-1.4 1.671-.983l5.603 3.113Z" clip-rule="evenodd" />
                             </svg>
                         </div>

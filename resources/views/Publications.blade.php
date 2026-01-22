@@ -25,7 +25,7 @@
                         @for($i = 1; $i <= 4; $i++)
                         <div class="flex flex-col gap-2 md:gap-3 items-start w-full">
                             <div class="h-[200px] md:h-[340px] rounded-md w-full overflow-hidden">
-                                <img src="{{ asset('images/Page5/publication' . $i . '.png') }}" alt="Publication {{ $i }}" class="w-full h-full object-cover rounded-md" />
+                                <img src="{{ asset('images/Content/publication' . $i . '.png') }}" alt="Publication {{ $i }}" class="w-full h-full object-cover rounded-md" />
                             </div>
                             <button class="border border-[#dfe4ea] flex gap-2 items-center justify-center px-4 md:px-7 py-2 md:py-3 rounded-full w-full hover:bg-[#0069e5] hover:text-white transition-colors group">
                                 <span class="font-medium text-sm md:text-base text-[#0069e5] group-hover:text-white">Download</span>
@@ -38,7 +38,7 @@
                         @for($i = 5; $i <= 8; $i++)
                         <div class="flex flex-col gap-2 md:gap-3 items-start w-full">
                             <div class="h-[200px] md:h-[340px] rounded-md w-full overflow-hidden">
-                                <img src="{{ asset('images/Page5/publication' . $i . '.png') }}" alt="Publication {{ $i }}" class="w-full h-full object-cover rounded-md" />
+                                <img src="{{ asset('images/Content/publication' . $i . '.png') }}" alt="Publication {{ $i }}" class="w-full h-full object-cover rounded-md" />
                             </div>
                             <button class="border border-[#dfe4ea] flex gap-2 items-center justify-center px-4 md:px-7 py-2 md:py-3 rounded-full w-full hover:bg-[#0069e5] hover:text-white transition-colors group">
                                 <span class="font-medium text-sm md:text-base text-[#0069e5] group-hover:text-white">Download</span>
@@ -68,7 +68,7 @@
                 @for($i = 1; $i <= 3; $i++)
                 <div class="flex flex-col gap-2 md:gap-3 items-start">
                     <div class="h-[160px] md:h-[204px] overflow-hidden relative rounded-xl w-full">
-                        <img src="{{ asset('images/Page5/video' . $i . '.png') }}" alt="Video {{ $i }}" class="absolute inset-0 w-full h-full object-cover rounded-xl" />
+                        <img src="{{ asset('images/Content/video' . $i . '.png') }}" alt="Video {{ $i }}" class="absolute inset-0 w-full h-full object-cover rounded-xl" />
                         <div class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 cursor-pointer hover:scale-110 transition-transform">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-10 md:w-12 h-10 md:h-12 text-white">
                                 <path fill-rule="evenodd" d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm14.024-.983a1.125 1.125 0 0 1 0 1.966l-5.603 3.113A1.125 1.125 0 0 1 9 15.113V8.887c0-.857.921-1.4 1.671-.983l5.603 3.113Z" clip-rule="evenodd" />
